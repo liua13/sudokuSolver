@@ -12,7 +12,7 @@ Welcome! Input a Sudoku grid following the format given in the readme.md file >>
 [0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
 
 Below is the solved Sudoku puzzle:
-
+______________________________
  5  1  7 | 6  9  8 | 2  3  4 |
  2  8  9 | 1  3  4 | 7  5  6 |
  3  4  6 | 2  7  5 | 8  9  1 |
