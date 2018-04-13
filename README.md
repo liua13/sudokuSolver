@@ -4,7 +4,7 @@ INPUT: A 2D array of 9 1D arrays, each of which have 9 elements. Each element re
 
 OUTPUT: A solved, formatted sudoku puzzle.
 
-EXAMPLE (Python 2.7, "solver2.7"):
+EXAMPLE ("solver2.7"): *NOTE: Only Python 2.7 can run this file*
 
 ```
 Welcome! Input a Sudoku grid following the format given in the readme.md file >>> [[5,1,7,6,0,0,0,3,4],
