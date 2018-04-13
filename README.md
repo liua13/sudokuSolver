@@ -4,9 +4,9 @@ INPUT: A 2D array of 9 1D arrays, each of which have 9 elements. Each element re
 
 OUTPUT: A solved, formatted sudoku puzzle.
 
-EXAMPLE (Python 2.7):
+EXAMPLE (Python 2.7, "solver2.7"):
 
-> Welcome! Input a Sudoku grid following the format given in the ReadMe file >>> [[5,1,7,6,0,0,0,3,4],[2,8,9,0,0,4,0,0,0],[3,4,6,2,0,5,0,9,0],[6,0,2,0,0,0,0,1,0],[0,3,8,0,0,6,0,4,7],[0,0,0,0,0,0,0,0,0],[0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
+> Welcome! Input a Sudoku grid following the format given in the readme.md file >>> [[5,1,7,6,0,0,0,3,4],[2,8,9,0,0,4,0,0,0],[3,4,6,2,0,5,0,9,0],[6,0,2,0,0,0,0,1,0],[0,3,8,0,0,6,0,4,7],[0,0,0,0,0,0,0,0,0],[0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
 
 >Below is the solved Sudoku puzzle:
 
