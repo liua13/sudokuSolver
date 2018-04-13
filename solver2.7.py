@@ -2,7 +2,7 @@ def main():
     """ This function asks user to input a Sudoku grid and prints
 the solved grid by calling the display() function """
 
-    grid = input("Welcome! Please input a Sudoku grid following the instructions in the ReadMe file >>> ") 
+    grid = input("Welcome! Please input a Sudoku grid following the instructions in the readme.md file >>> ") 
     print "\nBelow is the solved Sudoku puzzle:\n" + display(solveSudoku(grid))
 
 def display(grid):
